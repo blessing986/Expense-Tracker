@@ -22,6 +22,54 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: "e5",
+    title: "Shawarma",
+    amount: 45,
+    date: new Date(2022, 5, 12),
+  },
+  {
+    id: "e6",
+    title: "Body spray",
+    amount: 200,
+    date: new Date(2022, 11, 12),
+  },
+  {
+    id: "e7",
+    title: "Laptop",
+    amount: 800,
+    date: new Date(2022, 1, 20),
+  },
+  {
+    id: "e8",
+    title: "House",
+    amount: 1000,
+    date: new Date(2022, 3, 14),
+  },
+  {
+    id: "e9",
+    title: "Beverages",
+    amount: 450,
+    date: new Date(2022, 8, 2),
+  },
+  {
+    id: "e10",
+    title: "Standing Fan",
+    amount: 300,
+    date: new Date(2022, 10, 18),
+  },
+  {
+    id: "e11",
+    title: "Books",
+    amount: 450,
+    date: new Date(2023, 2, 14),
+  },
+  {
+    id: "e12",
+    title: "New Desk (Wooden)",
+    amount: 400,
+    date: new Date(2023, 5, 12),
+  },
 ];
 
 const App = () => {
